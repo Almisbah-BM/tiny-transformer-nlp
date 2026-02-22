@@ -29,6 +29,31 @@ This shows how relationships between words can be modeled using matrix operation
 - NumPy
 - Scikit-learn (for visualization)
 
+  
+## How to Run the Project
+
+1. Open the notebook:
+   Tiny_Transformer_Project.ipynb
+
+2. Run all cells sequentially in Google Colab or Jupyter Notebook.
+
+3. The notebook will:
+   - Tokenize the dataset
+   - Train a minimal Transformer model
+   - Compute loss and perplexity
+   - Visualize learned word embeddings
+
+     
+## Scientific Motivation
+
+Modern scientific knowledge exists largely in unstructured text such as
+medical reports and research literature. This project explores how
+mathematical models of language can extract structure from such data.
+
+Understanding these mechanisms is essential for applying AI to
+scientific challenges such as disease modeling, knowledge discovery,
+and data-driven decision making.
+
 ## Project Goal
 To understand how mathematical structures power AI systems used in scientific discovery,
 including applications in health data analysis, knowledge extraction, and predictive modeling.
